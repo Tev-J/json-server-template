@@ -3,7 +3,7 @@
     {
       "id": 1,
       "name": "Bowl Cut",
-      "image": "./assets/bowl_cut.png",
+      "image": "../public/assets/bowl_cut.png",
       "likes": 3,
       "price": "$25",
       "description": "The bowl cut is a uniform hairstyle with a straight fringe and equal length hair around the head, resembling a bowl shape."
