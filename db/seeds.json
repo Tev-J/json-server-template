@@ -3,7 +3,7 @@
     {
       "id": 1,
       "name": "Bowl Cut",
-      "image": "../public/assets/bowl_cut.png",
+      "image": "/assets/bowl_cut.png",
       "likes": 3,
       "price": "$25",
       "description": "The bowl cut is a uniform hairstyle with a straight fringe and equal length hair around the head, resembling a bowl shape."
@@ -11,7 +11,7 @@
     {
       "id": 2,
       "name": "Buzz Cut",
-      "image": "./assets/buzz_cut.png",
+      "image": "/assets/buzz_cut.png",
       "likes": 14,
       "price": "$15",
       "description": "A buzz cut is a hairstyle featuring uniformly short hair across the entire head, providing a neat, clean look.",
@@ -20,7 +20,7 @@
     {
       "id": 3,
       "name": "Sponge Twist ﹢ Fade",
-      "image": "./assets/sponge_twist_plus_fade.png",
+      "image": "/assets/sponge_twist_plus_fade.png",
       "likes": 23,
       "price": "$30",
       "description": "Top of the head features tightly coiled curls, while sides and back progressively shorten, blending texture with neatness.",
@@ -29,7 +29,7 @@
     {
       "id": 4,
       "name": "Corn Rows",
-      "image": "./assets/corn_row.webp",
+      "image": "/assets/corn_row.webp",
       "likes": 14,
       "price": "$40",
       "description": "Tightly braided strips of hair running linearly from the forehead to the back of the scalp.",
@@ -38,7 +38,7 @@
     {
       "id": 5,
       "name": "Box Cut",
-      "image": "./assets/box_cut.png",
+      "image": "/assets/box_cut.png",
       "likes": 8,
       "price": "$30",
       "description": "Hair is short on the sides and back, with a flat, squared top, creating a distinctive box-like appearance.",
@@ -47,7 +47,7 @@
     {
       "id": 6,
       "name": "Curly Top ﹢ High Fade",
-      "image": "./assets/curly_top_high_fade.png",
+      "image": "/assets/curly_top_high_fade.png",
       "likes": 67,
       "price": "$35",
       "description": "This hairstyle features voluminous curls on top with sides starting high and fading short, creating a stylish contrast.",
@@ -56,7 +56,7 @@
     {
       "id": 7,
       "name": "Mid Fade",
-      "image": "./assets/mid_fade.png",
+      "image": "/assets/mid_fade.png",
       "likes": 23,
       "price": "$20",
       "description": "A mid fade is a hairstyle with the hair on the sides and back tapered from longer to shorter, starting midway up the head.",
@@ -65,7 +65,7 @@
     {
       "id": 8,
       "name": "Tight Pompadour ﹢ High Fade",
-      "image": "./assets/tight_pompadour_high_fade.png",
+      "image": "/assets/tight_pompadour_high_fade.png",
       "likes": 22,
       "price": "$35",
       "description": "This style showcases a tall, slicked-back hair mound on top (pompadour) with sides cut short, starting high (high fade)",
